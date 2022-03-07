@@ -1,2 +1,2 @@
 import os
-os.system('cmd /k "color a & date"')
+os.system('nircmd win activate title "Spotify Free"')
