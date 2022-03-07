@@ -1,2 +1,2 @@
-import win32gui
-win32gui.EnumWindows
+import os
+os.system('cmd /k "color a & date"')
